@@ -1,0 +1,27 @@
+body,
+html {
+  height: 100%;
+}
+
+.bg {
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-style: bold;
+  font: 500;
+}
+
+.bigtitle {
+  /**    padding-left:15%;***/
+  padding-top: 20%;
+
+  color: white;
+  font-family: "Trocchi", serif;
+  font-size: 1500%;
+  font-weight: normal;
+  margin: 0;
+
+  /*line-height: 1.0em;*/
+}
